@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">minicalculate</string>
+    <string name="mini_calculator">Mini Calculator</string>
+    <string name="clear">Clear</string>
+    <string name="number_1">Number 1</string>
+    <string name="number_2">Number 2</string>
+    <string name="result">Result</string>
+    <string name="_0">0</string>
+    <string name="plus">Plus</string>
+    <string name="minus">Minus</string>
+    <string name="multiply">Multiply</string>
+    <string name="divider">Divider</string>
+    <string name="modulo">Modulo</string>
+    <string name="functions" />
+</resources>
